@@ -36,8 +36,6 @@ const App = () => {
     // console.log(expense);
   };
 
-  ///Test Git Commit
-
   return (
     <div>
       <NewExpense onAddExpense={addExpenseHandler} />
