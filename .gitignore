@@ -1,2 +1,5 @@
 
 .eslintcache
+.eslintcache
+*.json
+.eslintcache
